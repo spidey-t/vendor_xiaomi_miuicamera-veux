@@ -1,2 +1,0 @@
-allow platform_app_36 app_data_file:file execute;
-allow platform_app_36 hal_camerapostproc_xiaomi_hwservice:hwservice_manager find;
